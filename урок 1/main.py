@@ -10,4 +10,4 @@ ostatok = kollich*rasxod - litrs
 print(round(plochad,2))
 print(round(litrs,2))
 print(kollich)
-print(ostatok)
+print(round(ostatok,2))

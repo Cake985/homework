@@ -5,3 +5,5 @@ if a == 'game':
         print('Неверный ответ')
         card = int(input('Введите число'))
     print('Вы выйграли')
+
+# Not work
